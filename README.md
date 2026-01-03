@@ -7,11 +7,11 @@ Berdasarkan hasil analisis, insight dan rekomendasi difokuskan pada tiga area ut
 - **Province Performance Insight:** Menganalisis kontribusi GMV antar provinsi serta perbedaan karakteristik penjualan tiap wilayah, baik dari sisi volume transaksi maupun nilai rata-rata order (AOV).
 - **Brand Performance Insight:** Mengulas kinerja brand terhadap total GMV perusahaan, termasuk stabilitas penjualan, sensitivitas terhadap fluktuasi musiman, dan peran masing-masing brand dalam mendorong revenue.  
 
-Python notebook yang digunakan untuk mengambil data melalui API, melakukan inspeksi data, serta proses pembersihan data dapat diakses pada folder berikut: [link].
+Python notebook yang digunakan untuk mengambil data melalui API, melakukan inspeksi data, serta proses pembersihan data dapat diakses pada folder berikut: [link](https://github.com/mrnrasyad/Retail-Sales-Performance-Analysis/tree/main/python%20notebook).
 
-Query SQL yang digunakan untuk membangun ERD serta menjalankan berbagai analytic query untuk menjawab berbagai pertanyaan bisnis tersedia pada folder berikut: [link].
+Query SQL yang digunakan untuk membangun ERD serta menjalankan berbagai analytic query untuk menjawab berbagai pertanyaan bisnis tersedia pada folder berikut: [link](https://github.com/mrnrasyad/Retail-Sales-Performance-Analysis/tree/main/sql).
 
-Dashboard Tableau interaktif yang digunakan untuk laporan dan eksplorasi tren penjualan dapat diakses melalui tautan berikut: [link].
+Dashboard Tableau interaktif yang digunakan untuk laporan dan eksplorasi tren penjualan dapat diakses melalui tautan berikut: [link](https://public.tableau.com/views/retail_performance_dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 
 
@@ -58,7 +58,7 @@ Dari sisi regional, **DKI Jakarta merupakan kontributor GMV terbesar** dengan **
 * Lonjakan GMV pada bulan Oktober didorong oleh **kenaikan signifikan pada jumlah order, unit terjual, dan jumlah customer aktif**.
 
 <p align="center">
-  <kbd><img src="image\insight-2.png" width=800px> </kbd> <br>
+  <kbd><img src="image\insight-2.png" width=600px> </kbd> <br>
   Month-to-Month Trend Insight
 </p>
 
@@ -70,7 +70,7 @@ Dari sisi regional, **DKI Jakarta merupakan kontributor GMV terbesar** dengan **
 * Sebaliknya, **Jakarta menghasilkan GMV besar terutama dari volume transaksi yang tinggi**, bukan dari nilai transaksi per order yang tinggi. Hal ini menunjukkan **perbedaan karakteristik perilaku pembelian antar wilayah**.
 
 <p align="center">
-  <kbd><img src="image\insight-3.png" width=800px> </kbd> <br>
+  <kbd><img src="image\insight-3.png" width=600px> </kbd> <br>
   Province Performance Insight
 </p>
 
@@ -83,21 +83,9 @@ Dari sisi regional, **DKI Jakarta merupakan kontributor GMV terbesar** dengan **
 * Brand dengan kontribusi GMV sangat kecil (misalnya **Brand Q, ~0,03%**) berpotensi memiliki **peran minor atau niche**, sehingga dampaknya terhadap total revenue relatif tidak signifikan.
 
 <p align="center">
-  <kbd><img src="image\insight-4.png" width=800px> </kbd> <br>
+  <kbd><img src="image\insight-4.png" width=600px> </kbd> <br>
   Brand Performance Insight
 </p>
-
-### Category 4:
-
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-[Visualization specific to category 4]
 
 
 
