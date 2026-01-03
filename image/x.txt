@@ -1,0 +1,85 @@
+Executive Summary: 
+Total GMV pada tahun 2019 adalah Rp.355,901,161,000 dengan puncak penjualan pada bulan Desember yaitu Rp.44,546,359,000 (12.5% dari total revenue). Penurunan GMV tertinggi ada pada bulan September (turun -25.61% dari bulan sebelumnya) sedangkan kenaikan GMV tertinggi ada pada bulan oktober (naik 87.2% dari bulan sebelumnya). Provinsi dengan kontribusi revenue tertinggi adalah Jakarta (31.7% dari total revenue), sedangkan Brand S menjadi brand paling berpengaruh dengan 12.6% dari total revenue.   
+
+Month to month trend insight:
+- GMV cenderung naik pada awal tahun menuju pertengahan tahun (Jan-Mei), lalu terjadi perlambatan GMV di pertengahan tahun (antara juni dan september) sebelum kembali naik menuju akhir tahun, hal ini mencerminkan adanya seasonality. 
+- Perubahan GMV banyak dipengaruhi oleh volume penjualan pada masing2 daerah dan brand, adapun peningkatan active customers cenderung lebih stabil sepanjang tahun (walaupun ada penurunan pada bulan september) dan ada kemungkinan untuk terus naik menuju awal tahun 2020.  
+
+Province performance insight:
+- DKI Jakarta menjadi kontributor GMV paling dominan dengan 31.7% dari total revenue, disusul Jawa Barat (13.6% dari total revenue), Yogyakarta (8.7%), Jawa Tengah (7.8% dari total revenue), dan Jawa Timur dengan (5% dari total revenue). Sedangkan NTB merupakan provinsi dengan kontribusi revenue terendah yaitu 0.03% dari total revenue. Selisih kontribusi Jakarta yang cukup besar terhadap daerah dibawahnya, menunjukkan menunjukkan penjualan yang terkonsentrasi di satu daerah.
+- Riau dan Sumatra Barat menunjukkan AOV sangat tinggi dengan order relatif rendah, mengindikasikan pola transaksi bernilai besar per order (potensi B2B atau high-value purchase). Jakarta drives the majority of revenue through high transaction volume, while Riau exhibits significantly higher average order value driven by a small number of large transactions. This indicates fundamentally different purchasing behaviors across regions.
+
+Brand performance insight:
+- Brand S, Brand P, Brand R, Brand C, dan Brand D merupakan brand yang paling berpengaruh terhadap naik/turunnya revenue dengan Brand S merupakan market leader (12.6% dari total revenue), disusul Brand P (10.6% dari total revenue), Brand R (10.2% dari total revenue), Brand C (7.4% dari total revenue), dan Brand D (7% dari total revenue). Sedangkan Brand Q merupakan brand dengan kontribusi revenue terendah yaitu 0.03% dari total revenue. 
+- Penjualan dari Brand S, Brand R, Brand C, dan Brand D cenderung melambat di pertengahan tahun dan sama-sama memiliki penurunan revenue pada bulan september (dipengaruhi oleh penurunan customer pada bulan tersebut) sebelum kembali naik menuju akhir tahun. Sedangkan penjualan Brand P paling stabil sepanjang tahun dan cenderung naik.
+
+Rekomendasi:
+- Lakukan investigasi terhadap penurunan customer pada bulan september yg berakibat pada penurunan GMV.
+- Lakukan campaign/promo pemasaran pada bulan september untuk menaikan GMV untuk mengurangi resiko dip GMV) serta lakukan hal yg sama pada pertengahan tahun untuk menstabilkan penjualan sepanjang tahun.
+
+
+-- 
+
+Berikut hasil **perbaikan ejaan, konsistensi bahasa (Bahasa Indonesia formal), klarifikasi istilah**, serta **penambahan insight dan rekomendasi** yang masih relevan dengan dashboard dan *tidak menambah asumsi di luar data*.
+
+---
+
+## Executive Summary (Revisi)
+
+Total GMV sepanjang tahun 2019 mencapai **Rp355.901.161.000**, dengan puncak penjualan terjadi pada **bulan Desember sebesar Rp44.546.359.000** atau sekitar **12,5% dari total revenue tahunan**. Penurunan GMV terbesar terjadi pada **bulan September**, dengan penurunan **−25,61% dibandingkan bulan sebelumnya**, sementara kenaikan GMV tertinggi terjadi pada **bulan Oktober**, meningkat **87,19% dibandingkan bulan September**.
+
+Dari sisi regional, **DKI Jakarta merupakan kontributor GMV terbesar** dengan **31,7% dari total revenue**, menunjukkan konsentrasi penjualan yang kuat di satu wilayah. Dari sisi brand, **Brand S menjadi market leader** dengan kontribusi **12,6% terhadap total GMV**, menjadikannya brand paling berpengaruh terhadap kinerja penjualan secara keseluruhan.
+
+---
+
+## Month-to-Month Trend Insight
+
+* GMV menunjukkan **tren peningkatan dari awal tahun hingga Mei**, kemudian mengalami **perlambatan pada pertengahan tahun (Juni–September)** sebelum kembali meningkat signifikan pada kuartal akhir. Pola ini mengindikasikan adanya **seasonality dalam perilaku pembelian**.
+* Penurunan GMV di pertengahan tahun terutama dipengaruhi oleh **penurunan volume order dan unit terjual**, bukan oleh penurunan nilai transaksi per order secara ekstrem.
+* **Monthly Active Customers (MAC)** relatif stabil sepanjang tahun, meskipun terjadi **penurunan signifikan pada bulan September**, yang selaras dengan penurunan GMV pada periode yang sama.
+* Lonjakan GMV pada bulan Oktober didorong oleh **kenaikan simultan pada jumlah order, unit terjual, dan jumlah customer aktif**, bukan semata-mata kenaikan AOV.
+
+---
+
+## Province Performance Insight
+
+* **DKI Jakarta mendominasi GMV nasional** dengan kontribusi **31,7%**, disusul oleh **Jawa Barat (13,6%)**, **Yogyakarta (8,7%)**, **Jawa Tengah (7,8%)**, dan **Jawa Timur (5,0%)**.
+* Ketimpangan kontribusi GMV yang cukup besar antara Jakarta dan provinsi lain menunjukkan bahwa **penjualan masih sangat terpusat pada wilayah tertentu**, sehingga ketergantungan terhadap satu pasar relatif tinggi.
+* **Riau dan Sumatra Barat memiliki AOV yang sangat tinggi dengan jumlah order yang relatif rendah**, mengindikasikan pola transaksi bernilai besar per order (kemungkinan pembelian grosir atau B2B).
+* Sebaliknya, **Jakarta menghasilkan GMV besar terutama dari volume transaksi yang tinggi**, bukan dari nilai transaksi per order yang ekstrem. Hal ini menunjukkan **perbedaan karakteristik perilaku pembelian antar wilayah**.
+
+---
+
+## Brand Performance Insight
+
+* **Brand S, Brand P, Brand R, Brand C, dan Brand D** merupakan lima brand dengan kontribusi GMV terbesar, dengan **Brand S sebagai market leader (12,6%)**, diikuti oleh **Brand P (10,6%)**, **Brand R (10,2%)**, **Brand C (7,4%)**, dan **Brand D (7,0%)**.
+* Sebagian besar brand utama (**Brand S, Brand R, Brand C, dan Brand D**) mengalami **perlambatan penjualan pada pertengahan tahun**, serta **penurunan GMV pada bulan September**, yang selaras dengan penurunan jumlah customer aktif.
+* **Brand P menunjukkan performa paling stabil sepanjang tahun**, dengan tren GMV yang relatif konsisten dan cenderung meningkat, menjadikannya kandidat brand dengan ketahanan penjualan terbaik.
+* Brand dengan kontribusi GMV sangat kecil (misalnya **Brand Q, ~0,03%**) berpotensi memiliki **peran minor atau niche**, sehingga dampaknya terhadap total revenue relatif tidak signifikan.
+
+---
+
+## Rekomendasi (Diperluas)
+
+1. **Investigasi penurunan customer pada bulan September**
+
+   * Lakukan analisis lebih lanjut pada faktor eksternal (musiman, kalender libur, atau perubahan perilaku pelanggan) serta faktor internal (promo, stok, atau channel distribusi).
+
+2. **Optimalkan campaign pada periode low-season**
+
+   * Jalankan program promosi atau insentif khusus pada periode **Juni–September**, terutama menjelang September, untuk menstabilkan GMV dan menjaga jumlah customer aktif.
+
+3. **Strategi regional yang lebih tersegmentasi**
+
+   * Kurangi ketergantungan pada Jakarta dengan mendorong pertumbuhan di provinsi berkontribusi menengah (Jawa Barat, Yogyakarta, Jawa Tengah) melalui kampanye lokal atau penyesuaian channel distribusi.
+   * Manfaatkan provinsi dengan **AOV tinggi namun order rendah** (misalnya Riau dan Sumatra Barat) untuk program **high-value account management** atau penawaran khusus pembelian bernilai besar.
+
+4. **Penguatan brand dengan performa stabil**
+
+   * Jadikan **Brand P sebagai benchmark** untuk strategi pricing, distribusi, atau promosi karena performanya yang relatif stabil sepanjang tahun.
+   * Lakukan evaluasi portofolio untuk brand dengan kontribusi sangat kecil guna menentukan apakah perlu dikembangkan lebih lanjut atau dipertahankan sebagai niche product.
+
+5. **Perencanaan penjualan akhir tahun**
+
+   * Mengingat lonjakan kinerja pada kuartal IV, siapkan **stok, kampanye, dan kapasitas operasional lebih awal** untuk memaksimalkan potensi peak season.
+
