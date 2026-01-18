@@ -52,10 +52,8 @@ Dari sisi regional, **DKI Jakarta merupakan kontributor GMV terbesar** dengan **
 # Insights Deep Dive
 ### Month-to-Month Trend Insight:
 
-* GMV menunjukkan **tren peningkatan dari awal tahun hingga Mei**, kemudian mengalami **perlambatan pada pertengahan tahun (Juni–September)** sebelum kembali meningkat signifikan pada kuartal akhir. Pola ini mengindikasikan adanya **seasonality dalam perilaku pembelian**.
-* Penurunan GMV di pertengahan tahun terutama dipengaruhi oleh **penurunan volume order dan unit terjual**, bukan oleh penurunan nilai transaksi per order secara ekstrem.
-* **Monthly Active Customers (MAC)** relatif stabil sepanjang tahun, meskipun terjadi **penurunan signifikan pada bulan September**, yang selaras dengan penurunan GMV pada periode yang sama.
-* Lonjakan GMV pada bulan Oktober didorong oleh **kenaikan signifikan pada jumlah order, unit terjual, dan jumlah customer aktif**.
+* GMV menunjukkan **tren peningkatan dari awal tahun hingga Mei**, kemudian mengalami **perlambatan pada pertengahan tahun (Juni–September)** sebelum kembali meningkat signifikan pada kuartal akhir. Pola ini mengindikasikan adanya **seasonality dalam perilaku pembelian**, namun perlu data lintas tahun untuk konfirmasi.
+* Perlambatan GMV di pertengahan tahun terutama disebabkan oleh melemahnya aktivitas customer (penurunan order dan unit), bukan penurunan nilai per transaksi. Hal ini menunjukkan isu engagement, sementara lonjakan Oktober menegaskan bahwa GMV sangat dipengaruhi aktivasi customer dan volume transaksi.
 
 <p align="center">
   <kbd><img src="image\insight-2.png" width=600px> </kbd> <br>
@@ -66,7 +64,7 @@ Dari sisi regional, **DKI Jakarta merupakan kontributor GMV terbesar** dengan **
 
 * **DKI Jakarta mendominasi GMV nasional** dengan kontribusi **31,7%**, disusul oleh **Jawa Barat (13,6%)**, **Yogyakarta (8,7%)**, **Jawa Tengah (7,8%)**, dan **Jawa Timur (5,0%)**.
 * Ketimpangan kontribusi GMV yang cukup besar antara Jakarta dan provinsi lain menunjukkan bahwa **penjualan masih sangat terpusat pada wilayah tertentu**, sehingga ketergantungan terhadap satu pasar relatif tinggi.
-* **Riau dan Sumatra Barat memiliki AOV yang sangat tinggi dengan jumlah order yang relatif rendah**, mengindikasikan pola transaksi bernilai besar per order (kemungkinan pembelian grosir atau B2B).
+* **Riau dan Sumatra Barat memiliki AOV yang sangat tinggi dengan jumlah order yang relatif rendah**, mengindikasikan kemungkinan adanya transaksi bernilai besar per order.
 * Sebaliknya, **Jakarta menghasilkan GMV besar terutama dari volume transaksi yang tinggi**, bukan dari nilai transaksi per order yang tinggi. Hal ini menunjukkan **perbedaan karakteristik perilaku pembelian antar wilayah**.
 
 <p align="center">
@@ -79,8 +77,8 @@ Dari sisi regional, **DKI Jakarta merupakan kontributor GMV terbesar** dengan **
 
 * **Brand S, Brand P, Brand R, Brand C, dan Brand D** merupakan lima brand dengan kontribusi GMV terbesar, dengan **Brand S sebagai market leader (12,6%)**, diikuti oleh **Brand P (10,6%)**, **Brand R (10,2%)**, **Brand C (7,4%)**, dan **Brand D (7,0%)**.
 * Sebagian besar brand utama (**Brand S, Brand R, Brand C, dan Brand D**) mengalami **perlambatan penjualan pada pertengahan tahun**, serta **penurunan GMV pada bulan September**, yang selaras dengan penurunan jumlah customer aktif.
-* **Brand P menunjukkan performa paling stabil sepanjang tahun**, dengan tren GMV yang relatif konsisten dan cenderung meningkat, menjadikannya kandidat brand dengan ketahanan penjualan terbaik.
-* Brand dengan kontribusi GMV sangat kecil (misalnya **Brand Q, ~0,03%**) berpotensi memiliki **peran minor atau niche**, sehingga dampaknya terhadap total revenue relatif tidak signifikan.
+* **Brand P menunjukkan performa paling stabil sepanjang tahun**, dengan tren GMV yang relatif konsisten dan cenderung meningkat, menjadikannya brand dengan ketahanan stabilitas penjualan terbaik.
+* Brand dengan kontribusi GMV sangat kecil (misalnya **Brand Q, ~0,03%**) berpotensi memiliki **peran kecil atau niche**, sehingga dampaknya terhadap total revenue relatif tidak signifikan.
 
 <p align="center">
   <kbd><img src="image\insight-4.png" width=600px> </kbd> <br>
